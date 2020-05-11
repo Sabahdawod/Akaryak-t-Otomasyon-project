@@ -1,0 +1,20 @@
+C:\C#\Akaryakıt Otomasyon\Akaryakıt Otomasyon\obj\Debug\Akaryakıt Otomasyon.csprojAssemblyReference.cache
+C:\C#\Akaryakıt Otomasyon\Akaryakıt Otomasyon\obj\Debug\Akaryakıt_Otomasyon.Properties.Resources.resources
+C:\C#\Akaryakıt Otomasyon\Akaryakıt Otomasyon\obj\Debug\Akaryakıt Otomasyon.csproj.GenerateResource.cache
+C:\C#\Akaryakıt Otomasyon\Akaryakıt Otomasyon\obj\Debug\Akaryakıt Otomasyon.csproj.CoreCompileInputs.cache
+C:\C#\Akaryakıt Otomasyon\Akaryakıt Otomasyon\bin\Debug\Akaryakıt Otomasyon.exe.config
+C:\C#\Akaryakıt Otomasyon\Akaryakıt Otomasyon\bin\Debug\Akaryakıt Otomasyon.exe
+C:\C#\Akaryakıt Otomasyon\Akaryakıt Otomasyon\bin\Debug\Akaryakıt Otomasyon.pdb
+C:\C#\Akaryakıt Otomasyon\Akaryakıt Otomasyon\obj\Debug\Akaryakıt_Otomasyon.Form1.resources
+C:\C#\Akaryakıt Otomasyon\Akaryakıt Otomasyon\obj\Debug\Akaryakıt Otomasyon.exe
+C:\C#\Akaryakıt Otomasyon\Akaryakıt Otomasyon\obj\Debug\Akaryakıt Otomasyon.pdb
+C:\Users\Nadia\Desktop\Akaryakıt Otomasyon\Akaryakıt Otomasyon\bin\Debug\Akaryakıt Otomasyon.exe.config
+C:\Users\Nadia\Desktop\Akaryakıt Otomasyon\Akaryakıt Otomasyon\bin\Debug\Akaryakıt Otomasyon.exe
+C:\Users\Nadia\Desktop\Akaryakıt Otomasyon\Akaryakıt Otomasyon\bin\Debug\Akaryakıt Otomasyon.pdb
+C:\Users\Nadia\Desktop\Akaryakıt Otomasyon\Akaryakıt Otomasyon\obj\Debug\Akaryakıt Otomasyon.csprojAssemblyReference.cache
+C:\Users\Nadia\Desktop\Akaryakıt Otomasyon\Akaryakıt Otomasyon\obj\Debug\Akaryakıt_Otomasyon.Form1.resources
+C:\Users\Nadia\Desktop\Akaryakıt Otomasyon\Akaryakıt Otomasyon\obj\Debug\Akaryakıt_Otomasyon.Properties.Resources.resources
+C:\Users\Nadia\Desktop\Akaryakıt Otomasyon\Akaryakıt Otomasyon\obj\Debug\Akaryakıt Otomasyon.csproj.GenerateResource.cache
+C:\Users\Nadia\Desktop\Akaryakıt Otomasyon\Akaryakıt Otomasyon\obj\Debug\Akaryakıt Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Nadia\Desktop\Akaryakıt Otomasyon\Akaryakıt Otomasyon\obj\Debug\Akaryakıt Otomasyon.exe
+C:\Users\Nadia\Desktop\Akaryakıt Otomasyon\Akaryakıt Otomasyon\obj\Debug\Akaryakıt Otomasyon.pdb
